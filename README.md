@@ -2,7 +2,7 @@
 
 A sleek and responsive recipe discovery application that allows users to search for meals based on ingredients, cuisine, or dietary restrictions, powered by TheMealDB API.
 
-### [➡️ Live Demo (Work in Progress)](https://www.google.com/search?q=%23)
+### [➡️ Live Demo](https://culinary-compass-eight.vercel.app/)
 
 -----
 
