@@ -67,7 +67,7 @@ You need to have [Node.js](https://nodejs.org/en/) (which includes npm) installe
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/culinary-compass.git
+    git clone https://github.com/andrewkristofer/culinary-compass.git
     ```
 2.  **Navigate to the project directory:**
     ```sh
